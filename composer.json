@@ -1,7 +1,7 @@
 {
     "name": "caring-circles/p2p-care-lib",
     "description": "Library containing reusable shared components.",
-    "license": "AGPLv3 with Commons Clause License Condition v1.0",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Othmane Moustaouda",
@@ -23,14 +23,6 @@
         "psr-4": {
             "CaringCircles\\P2pCare\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "CaringCircles\\P2pCare\\Tests": "tests/"
-        },
-        "files": [
-            "tests/bootstrap.php"
-        ]
     },
     "config": {
         "preferred-install": "dist",

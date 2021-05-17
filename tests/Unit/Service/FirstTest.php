@@ -2,7 +2,7 @@
 
 namespace CaringCircles\P2pCare\Tests\Unit\Service;
 
-use CaringCircles\P2pCare\Service\FirstService;
+use CaringCircles\P2pCareLib\Service\FirstService;
 use PHPUnit\Framework\TestCase;
 
 class FirstTest extends TestCase

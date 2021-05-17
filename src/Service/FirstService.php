@@ -1,6 +1,6 @@
 <?php
 
-namespace CaringCircles\P2pCare\Service;
+namespace CaringCircles\P2pCareLib\Service;
 
 class FirstService
 {

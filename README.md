@@ -5,5 +5,8 @@
 # P2P Care lib
 This library contains reusable components that simplify the development of P2P-care applications.
 
+## Install
+```composer require caring-circles/p2p-care-lib```
+
 ### License
-AGPLv3 with "Commons Clause" License Condition v1.0. See ./LICENSE
+AGPLv3 with "Commons Clause" License Condition v1.0. See [./LICENSE](LICENSE)
